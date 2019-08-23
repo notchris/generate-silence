@@ -15,7 +15,7 @@ Then generate silence:
 
 ```js
 
-new Silence(60).generate()
+new Silence(60).generate(); // seconds
 
 // You can also pass an option to generate for a different return format.
 

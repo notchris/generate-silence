@@ -12,6 +12,11 @@
     "audio",
     "generate"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/notchris/generate-silence.git"
+  },
+  "homepage": "https://github.com/notchris/generate-silence",
   "author": "notchris <mail@chrismcgrane.com>",
   "license": "MIT",
   "dependencies": {}
